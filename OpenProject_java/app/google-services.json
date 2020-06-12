@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "669014727952",
+    "firebase_url": "https://smart-flowerpot-5676e.firebaseio.com",
+    "project_id": "smart-flowerpot-5676e",
+    "storage_bucket": "smart-flowerpot-5676e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669014727952:android:edf7a594c7bd06ea3f5995",
+        "android_client_info": {
+          "package_name": "com.example.databasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669014727952-o1q6q28arkmvk612knlmmf0kmsaddg91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhIvfPiHo5jVyq3h_QUYjDXACiyL9POk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669014727952-o1q6q28arkmvk612knlmmf0kmsaddg91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669014727952:android:e58fe467d2e2670c3f5995",
+        "android_client_info": {
+          "package_name": "com.example.openproject_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669014727952-o1q6q28arkmvk612knlmmf0kmsaddg91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhIvfPiHo5jVyq3h_QUYjDXACiyL9POk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669014727952-o1q6q28arkmvk612knlmmf0kmsaddg91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
